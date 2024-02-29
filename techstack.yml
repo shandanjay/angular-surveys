@@ -1,0 +1,629 @@
+repo_name: shandanjay/angular-surveys
+report_id: 02d339a0813703e29635d8ac7f4b8f26
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:47:13+00:00'
+requested_by: mwasiluk
+provider: github
+branch: master
+detected_tools_count: 47
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/shandanjay/angular-surveys
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys
+  detection_source: Repo Metadata
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2015-11-30 23:44:10.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2017-04-09 14:29:21.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2017-04-09 14:29:21.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  version: 1.9.19
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2017-04-09 14:29:21.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2015-11-30 23:44:10.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2015-12-04 15:12:59.000000000 Z
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.12.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2015-11-30 23:44:10.000000000 Z
+- name: gulp-angular-templatecache
+  description: Concatenates and registers AngularJS templates in the $templateCache
+  package_url: https://www.npmjs.com/gulp-angular-templatecache
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17255/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-inject
+  description: A javascript, stylesheet and webcomponent injection plugin for Gulp,
+    i.e
+  package_url: https://www.npmjs.com/gulp-inject
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17107/default_cd46073ead3b39efb82d67472bd530a8fbcbda52.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-install
+  description: Automatically install npm
+  package_url: https://www.npmjs.com/gulp-install
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16903/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-jshint
+  description: JSHint plugin for gulp
+  package_url: https://www.npmjs.com/gulp-jshint
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-load-plugins
+  description: Automatically load any gulp plugins in your package.json
+  package_url: https://www.npmjs.com/gulp-load-plugins
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16154/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-minify-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-minify-css
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16291/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-minify-html
+  description: Minify html with minimize
+  package_url: https://www.npmjs.com/gulp-minify-html
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17459/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-ng-annotate
+  description: Add angularjs dependency injection annotations with ng-annotate
+  package_url: https://www.npmjs.com/gulp-ng-annotate
+  version: 1.1.0
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16996/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-plumber
+  description: Prevent pipe breaking caused by errors from gulp plugins
+  package_url: https://www.npmjs.com/gulp-plumber
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16033/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-sass
+  description: Gulp plugin for sass
+  package_url: https://www.npmjs.com/gulp-sass
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16002/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-sourcemaps
+  description: Source map support for Gulp.js
+  package_url: https://www.npmjs.com/gulp-sourcemaps
+  version: 1.5.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-strip-debug
+  description: Strip console and debugger statements from JavaScript code
+  package_url: https://www.npmjs.com/gulp-strip-debug
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18527/default_7b1c0aa4a764d674ffd721ae5b17289360266c1d.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-uglify
+  description: Minify files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglify
+  version: 1.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: gulp-util
+  description: Utility functions for gulp plugins
+  package_url: https://www.npmjs.com/gulp-util
+  version: 3.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15912/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dimkk
+  last_updated_on: 2016-04-25 22:18:14.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2017-04-09 14:29:21.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2017-04-09 14:29:21.000000000 Z
+- name: karma-phantomjs-launcher
+  description: A Karma plugin. Launcher for PhantomJS
+  package_url: https://www.npmjs.com/karma-phantomjs-launcher
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15947/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2017-04-09 14:29:21.000000000 Z
+- name: merge-stream
+  description: Create a stream that emits events from multiple other streams
+  package_url: https://www.npmjs.com/merge-stream
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16419/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-02-08 20:28:11.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-10-12 14:23:30.000000000 Z
+- name: Sortable
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: http://bower.io/Sortable
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Jorge Villada
+  last_updated_on: 2016-03-15 14:18:24.000000000 Z
+- name: angular
+  description: Bower package for AngularJS
+  package_url: http://bower.io/angular
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-bootstrap
+  description: Native AngularJS
+  package_url: http://bower.io/angular-bootstrap
+  version: 1.2.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-elastic
+  description: Elastic
+  package_url: http://bower.io/angular-elastic
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-material
+  description: This repository is used for publishing the AngularJS Material v1.x
+    library
+  package_url: http://bower.io/angular-material
+  version: 1.0.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-mocks
+  description: Angular-mocks.js bower repo
+  package_url: http://bower.io/angular-mocks
+  version: 1.4.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-sanitize
+  description: Angular-sanitize bower repo
+  package_url: http://bower.io/angular-sanitize
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-translate
+  description: A translation module for AngularJS
+  package_url: http://bower.io/angular-translate
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-translate-loader-partial
+  description: A plugin for Angular Translate
+  package_url: http://bower.io/angular-translate-loader-partial
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-translate-loader-static-files
+  description: A plugin for Angular Translate
+  package_url: http://bower.io/angular-translate-loader-static-files
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: angular-ui-sortable
+  description: This directive allows you to jQueryUI Sortable
+  package_url: http://bower.io/angular-ui-sortable
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: bootstrap
+  description: The most popular front-end framework for developing responsive
+  package_url: http://bower.io/bootstrap
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
+- name: bootstrap-sass
+  description: Bootstrap-sass is a Sass-powered version of Bootstrap 3
+  package_url: http://bower.io/bootstrap-sass
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/shandanjay/angular-surveys/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: mwasiluk
+  last_updated_on: 2016-04-06 12:50:37.000000000 Z
